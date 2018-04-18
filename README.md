@@ -7,4 +7,5 @@ This fully responsive website project was developed for premium food delivery co
 * CSS3
 * jQuery
 
-**Demo:** food.anilgunay.com
+**Demo:** [Premium Food Delivery Company](https://food.anilgunay.com)
+
