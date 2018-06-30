@@ -1,11 +1,22 @@
-# Food Company
+# Food Delivery
 
-This fully responsive website project was developed for premium food delivery companies.
+This **fully responsive** website project was developed for food delivery companies.
 
-**Technologies**
-* HTML5
-* CSS3
-* jQuery
+This template consists of six main sections:
 
-**Demo:** [Premium Food Delivery Company](https://food.anilgunay.com)
+- Features
+- How It Works
+- Cities (locations)
+- Testimonials
+- Plans and Prices
+- Contact (with a map)
+
+### Technologies and Tools Used
+- HTML5
+- CSS3
+- jQuery (and gmap.js)
+
+### Demo
+**[Premium Food Delivery](https://anilgunay.com/food-delivery)**
+
 
